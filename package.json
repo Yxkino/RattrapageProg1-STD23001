@@ -1,0 +1,19 @@
+{
+  "name": "rattrapageprog1",
+  "version": "1.0.0",
+  "main": "exo1.js",
+  "scripts": {
+    "start": "node mocha.js",
+    "test": "mocha './*.test.js'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chai": "^5.1.1",
+    "mocha": "^10.7.3"
+  },
+  "type": "module"
+}
+
